@@ -1,4 +1,4 @@
-# Day 3: Recursive Fibonacci Series
+## Day 3: Recursive Fibonacci Series
 
 **Fork and then clone me!**
 
